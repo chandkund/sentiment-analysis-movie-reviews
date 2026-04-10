@@ -48,8 +48,8 @@ data/raw/
 data/*.csv
 data/*.xlsx
 
-# Models
-models/*.pkl
+# Models - Keep model files for deployment
+# models/*.pkl
 models/*.pkl
 models/*.h5
 models/*.pth
