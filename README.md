@@ -197,4 +197,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you found it helpful!**
 
-**📧 Contact**: chandkund@example.com
+**📧 Contact**: chandanstudy02@gmail.com
